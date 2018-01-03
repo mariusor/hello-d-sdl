@@ -1,0 +1,13 @@
+{
+	"name": "hello-d-sdl",
+	"authors": [ "habarnam" ],
+	"description": "SDL tests",
+	"copyright": "Copyright © 2018, habarnam",
+	"license": "MIT",
+	"dependencies": {
+		"derelict-sdl2": "*",
+		"derelict-util": "*",
+		"derelict-gl3": "*"
+	},
+	"libs": ["sdl2"]
+}
